@@ -1,4 +1,4 @@
-## hi there — i'm sanjana!👋
+## hi there, i'm sanjana!👋
 
 <!--
 **sanjana-basu/sanjana-basu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
