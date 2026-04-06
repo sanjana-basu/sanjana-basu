@@ -1,6 +1,6 @@
 ## hi there, i'm sanjana!👋
 
-I'm a 2nd-year CS + Bioinformatics undergrad @ VIT Vellore interested in thoughtful, intentional, human-centered tech. 
+I'm a 2nd-year CSE undergrad @ VIT Vellore interested in thoughtful, intentional, human-centered tech. 
 Exploring the intersection of research, design, and data — where technical depth meets product clarity.
 <!--
 **sanjana-basu/sanjana-basu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
